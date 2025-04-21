@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./App.css";
+import "./index.css";
 import pic from "./assets/y.jpg"; // Import the image
 
 const ProfileCard = ({ name, bio, initialBgColor }) => {
